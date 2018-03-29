@@ -6,3 +6,7 @@ const submitBtn = document.querySelector('form button');
 
 // Create an instance of a db object for us to store the open database in
 var db;
+
+window.onload = function() {
+
+};
